@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <string name="fitness_app">Fitness App</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_account_sign_up">Don\'t have account? Sign Up</string>
+
+    <string name="user_name">User Name</string>
+    <string name="nameIsRequired">Username is required !</string>
+    <string name="emailIsRequired">Email is required !</string>
+    <string name="please_enter_valid_email">Please enter valid email !</string>
+    <string name="passwordIsRequired">Password is  required !</string>
+    <string name="minimumLength">Minimum Password Length 8</string>
+
+    <string name="AlreadyRegistered">This account is already registered</string>
+    <string name="noConnection">No Connection</string>
+    <string name="successRegistered">Successfully Registered</string>
+    <string name="successLogin">Successfully Login</string>
+    <string name="userNotFound">This user not found !!!</string>
+    <string name="passwordIncorrect">Password incorrect !!!</string>
+    <string name="save">Save</string>
+    <string name="update_successfully">Update Successfully</string>
+    <string name="logout">Logout</string>
+    <string name="age">Age</string>
+    <string name="age_is_required">Age is required !</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="i_have_account_sign_in">I have account? Sign In</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_title_is_required">Job Title is required !</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="leg_workout">Leg Workout</string>
+    <string name="abs_workout">Abs Workout</string>
+    <string name="go"><![CDATA[Go >]]></string>
+    <string name="done">Done</string>
+    <string name="calender">Calender</string>
+</resources>

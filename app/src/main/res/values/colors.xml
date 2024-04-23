@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary brand color. -->
+    <color name="colorPrimary">@color/mainColor</color>
+    <color name="colorPrimaryVariant">@color/mainColor</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <!-- Secondary brand color. -->
+    <color name="colorSecondary">@color/secondaryColor</color>
+    <color name="colorSecondaryVariant">@color/secondaryColor</color>
+    <color name="colorOnSecondary">@color/black</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="main_background">#ffffff</color>
+    <color name="mainColor">#0E86D4</color>
+    <color name="secondaryColor">#68BBE3</color>
+
+
+
+    <color name="timer_mainColor">#0E3160</color>
+    <color name="timer_secondaryColor">#A92420</color>
+
+
+
+</resources>
